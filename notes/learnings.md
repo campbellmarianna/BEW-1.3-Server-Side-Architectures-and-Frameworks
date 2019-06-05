@@ -2,5 +2,8 @@
 
 - [Abundantly valuable Django Tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 
-[DAY 2] Only 4 commands are needed to get startup a Django project.
+[DAY 2] Only 4 commands are needed to startup a Django project.
 - [Django Docs](https://docs.djangoproject.com/en/2.2/topics/)
+
+[DAY 3] Class based views allow you to inherit features from common views and prevent you from having to rewrite code.
+- [Django Docs](https://docs.djangoproject.com/en/2.2/topics/class-based-views/)
