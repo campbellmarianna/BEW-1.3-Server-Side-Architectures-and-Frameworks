@@ -7,3 +7,7 @@
 
 [DAY 3] Class based views allow you to inherit features from common views and prevent you from having to rewrite code.
 - [Django Docs](https://docs.djangoproject.com/en/2.2/topics/class-based-views/)
+
+[DAY 4] When you see a drop down think of it as a foreign key,
+you ca only choose one.
+- [Django Class Project](https://github.com/droxey/makepizza)
